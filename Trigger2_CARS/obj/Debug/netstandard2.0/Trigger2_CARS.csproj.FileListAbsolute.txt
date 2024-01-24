@@ -1,0 +1,48 @@
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.deps.json
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.AssemblyReference.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfoInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfo.cs
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\refint\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\ref\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\Carlos Armando\Trigger2_CARS\Trigger2_CARS\obj\Debug\netstandard2.0\View\Calculadora.xaml.g.cs
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.deps.json
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.AssemblyReference.cache
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\View\Calculadora.xaml.g.cs
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfoInputs.cache
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfo.cs
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\refint\Trigger2_CARS.dll
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\elram\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\ref\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.deps.json
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\bin\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.AssemblyReference.cache
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\View\Calculadora.xaml.g.cs
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfoInputs.cache
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.AssemblyInfo.cs
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\refint\Trigger2_CARS.dll
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\Trigger2_CARS.pdb
+C:\Users\cd17\Desktop\calculadoraMVVM_CARS-main\Trigger2_CARS\obj\Debug\netstandard2.0\ref\Trigger2_CARS.dll
