@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj": {}
+    "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj": {
+    "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj",
         "projectName": "Trigger2_CARS.iOS",
-        "projectPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj",
+        "projectPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.iOS\\Trigger2_CARS.iOS.csproj",
         "packagesPath": "C:\\Users\\cd17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.iOS\\obj\\",
+        "outputPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj": {
-                "projectPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj"
+              "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj": {
+                "projectPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj": {
+    "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj",
+        "projectUniqueName": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj",
         "projectName": "Trigger2_CARS",
-        "projectPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj",
+        "projectPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj",
         "packagesPath": "C:\\Users\\cd17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\obj\\",
+        "outputPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

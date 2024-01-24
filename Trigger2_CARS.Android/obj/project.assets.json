@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
+      "projectUniqueName": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
       "projectName": "Trigger2_CARS.Android",
-      "projectPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
+      "projectPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
       "packagesPath": "C:\\Users\\cd17\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.Android\\obj\\",
+      "outputPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj": {
-              "projectPath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj"
+            "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj": {
+              "projectPath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj"
             }
           }
         }

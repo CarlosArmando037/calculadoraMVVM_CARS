@@ -11,11 +11,11 @@ namespace Trigger2_CARS.ViewModel
         #region VARIABLES
         int _num0 = 0;
         int _num1 =1;
-        int _num2=2;
-        int _num3=3;
-        int _num4=4;
-        int _num5=5;
-        int _num6=6;
+        int _num2 =2;
+        int _num3 =3;
+        int _num4 =4;
+        int _num5 =5;
+        int _num6 =6;
         int _num7=7;
         int _num8=8;
         int _num9=9;
@@ -24,8 +24,8 @@ namespace Trigger2_CARS.ViewModel
         bool _multiplicacion;
         bool _divicion;
         string _resultado;
-        int _variable1;
-        int _varAux;
+        float _variable1;
+        float _varAux;
         int _borrar;
         #endregion
         #region CONSTRUCTOR
@@ -107,12 +107,12 @@ namespace Trigger2_CARS.ViewModel
             get { return _multiplicacion; }
             set { SetProperty(ref _multiplicacion, value); }
         }
-        public int Variable1
+        public float Variable1
         {
             get { return _variable1; }
             set { SetProperty(ref _variable1, value); }
         }
-        public int varAux
+        public float varAux
         {
             get { return _varAux; }
             set { SetProperty(ref _varAux, value); }
@@ -183,11 +183,11 @@ namespace Trigger2_CARS.ViewModel
         {
             if (varAux == 0)
             {
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
             }
             else
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
             }
             Resultado = string.Empty;
             Suma = true;
@@ -197,11 +197,11 @@ namespace Trigger2_CARS.ViewModel
         {
             if (varAux == 0)
             {
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
             }
             else
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
             }
             Resultado = string.Empty;
             Resta = true;
@@ -211,11 +211,11 @@ namespace Trigger2_CARS.ViewModel
         {
             if (varAux == 0)
             {
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
             }
             else
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
             }
             Resultado = string.Empty;
             Multiplicacion = true;
@@ -225,11 +225,11 @@ namespace Trigger2_CARS.ViewModel
         {
             if (varAux == 0)
             {
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
             }
             else
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
             }
             Resultado = string.Empty;
             Divicion = true;
@@ -250,30 +250,30 @@ namespace Trigger2_CARS.ViewModel
         {
             if (Suma == true)
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
                 Resultado = Convert.ToString(varAux + Variable1);
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
                 Suma = false;
             }
             else if (Resta ==true)
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
                 Resultado = Convert.ToString(varAux - Variable1);
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
                 Resta = false;
             }
             else if (Divicion == true)
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
                 Resultado = Convert.ToString(varAux / Variable1);
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
                 Divicion = false;
             }
             else if (Multiplicacion == true)
             {
-                Variable1 = Convert.ToInt32(Resultado);
+                Variable1 = float.Parse(Resultado);
                 Resultado = Convert.ToString(varAux * Variable1);
-                varAux = Convert.ToInt32(Resultado);
+                varAux = float.Parse(Resultado);
                 Multiplicacion = false;
             }
             else

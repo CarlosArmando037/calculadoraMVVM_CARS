@@ -9,10 +9,19 @@ namespace Trigger2_CARS.Triggers
 {
     internal class Tcolor : TriggerAction<Button>
     {
+        private static Button botonselec = null;
+        public string color = "#2288bb";
         protected override void Invoke(Button btn)
         {
-            btn.BackgroundColor = Color.Green;
-
+            if (botonselec != null)
+            {
+                botonselec.BackgroundColor = Color.CornflowerBlue;
+            }
+            if(btn.ClassId == "operador")
+            {
+                botonselec = btn;
+               btn.BackgroundColor = Color.Green;
+            } 
         }
     }
 }

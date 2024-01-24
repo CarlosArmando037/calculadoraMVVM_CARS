@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4UtfIj0GVsmEB/BilhK7WKw/2w65PalBVgzcj0CVNiq5y0M/vktAQimCom8gZSqTD0PC3fS51gW72GOazufFKA==",
+  "dgSpecHash": "ihARqmM8tzFmbj3iR/Fw8DQ0r9iASU2THiwVSF6rIhv3GbSP6ePqfFn2fGpIkMshYoSuuALt3kT84C3idB+KMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS\\Trigger2_CARS.csproj",
+  "projectFilePath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS\\Trigger2_CARS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cd17\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\cd17\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

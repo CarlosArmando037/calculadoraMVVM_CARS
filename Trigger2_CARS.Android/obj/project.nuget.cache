@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3GHtnafznthVLq65LOqAp09Rhx4BfQiZRcs+Ts2m2kYRBoPObvoqZ195ToSienHtKCHfVW/K2gOc8AM2SKIlg==",
+  "dgSpecHash": "ejgkfdub4C/VkCCrFqdCt1Z99O+/9tPNKqCE6VFdzEImaF+LmrRTXnRKsq0LqqjrBZU1D6LEoKEThsJIxCFzyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cd17\\Desktop\\calculadoraMVVM_CARS-main\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
+  "projectFilePath": "C:\\Users\\cd17\\Desktop\\Carlos Armando\\calculadoraMVVM_CARS\\Trigger2_CARS.Android\\Trigger2_CARS.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cd17\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\cd17\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
